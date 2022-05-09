@@ -2,7 +2,7 @@
 - 👀 I’m interested in building Frontends using HTML, CSS and JS.
 - 🌱 Currently, I am learning technologies realted to Blockchain like Solidity, Hardhat, React, etc.
 - 💞️ I’m looking for oppertunities in the Web 3.0 space.
-- 📫 You can reach me at Twitter: 0xrishavsharma
+- 📫 You can reach me on Twitter at: 0xrishavsharma
 
 <!---
 rishavsharma-eth/rishavsharma-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
