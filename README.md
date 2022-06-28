@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishav Sharma
-- 👀 I’m interested in building Frontends using HTML, CSS and JS.
-- 🌱 Currently, I am learning technologies realted to Blockchain like Solidity, Hardhat, React, etc.
-- 💞️ I’m looking for oppertunities in the Web 3.0 space.
+- 👀 Interested in building Frontends using HTML, CSS and JS.
+- 🌱 Currently, learning technologies like Solidity, Hardhat, React, etc.
+- 💞️ Looking for opportunities in the Web 3 space.
 - 📫 You can reach me on Twitter at: 0xrishavsharma
 
 <!---
